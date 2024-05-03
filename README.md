@@ -186,12 +186,6 @@
 ### PROJECTS AND DEV STUFF
 <b>⚡ Github Stats</b>
     <br />
-    <!-- <p align="center">
-        <a href="https://github.com/BigStar-2024?tab=repositories">
-            <img width="54%" height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BigStar-2024&theme=gotham&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
-            <img width="45%" height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BigStar-2024&theme=gotham&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact"/>
-        </a>
-    </p> -->
     <p>
   <a href="https://github.com/BigStar-2024" target="_blank" rel="noopener noreferrer">
     <img
@@ -263,9 +257,3 @@
 <code><img height="45" src="https://brandslogos.com/wp-content/uploads/images/heroku-logo.png"></code>
 <code><img height="45" src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/microsoft_windows-512.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code> -->
-
-
-
-<p align="center">
-<a href="https://github.com/BigStar-2024?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=BigStar-2024&theme=onestar&no-frame=true&column=3&row=2"  width="50%" height="50%" alt="@Goblin's trophy stats"/></a>
-</p>
