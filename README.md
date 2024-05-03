@@ -184,25 +184,6 @@
 
 
 ### PROJECTS AND DEV STUFF
-<b>⚡ Github Stats</b>
-    <br />
-    <p>
-  <a href="https://github.com/BigStar-2024" target="_blank" rel="noopener noreferrer">
-    <img
-      height="180em"
-      src="https://satoshj-readme-state.vercel.app/api?username=BigStar-2024&hide=contribs&show_icons=true&count_private=true&include_all_commits=true&disable_animations=false&hide_border=true&bg_color=FFFFFF00&text_color=05CCB2&icon_color=FFFFFF&title_color=FFFFFF"
-      alt='github-stats'
-    />
-    <img
-      height="180em"
-      src="https://satoshj-readme-state.vercel.app/api/top-langs?username=BigStar-2024&show_icons=true&langs_count=8&layout=compact&hide_border=true&bg_color=FFFFFF00&text_color=05CCB2&icon_color=FFFFFF&title_color=FFFFFF"
-      alt='github-stats-toplangs'
-    />
-  </a>
-</p>
-
-</p>
-
 <b>☄️ Github Streaks</b>
   
   <br />
